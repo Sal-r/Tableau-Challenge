@@ -1,0 +1,10 @@
+Visualization 1
+1. How many trips have been recorded total during the chosen period?
+25,077
+
+2. Today, what is the gender breakdown of active participants (Male v. Female)?
+June, 2020
+
+Unkown: 22.15%
+Male: 50.9%
+Female: 26.95%
